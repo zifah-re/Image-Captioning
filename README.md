@@ -1,2 +1,2 @@
 # Image-Captioning
-This repository contains a transformer-based architecture to perform image captioning
+This repository contains the code for a transformer-based architecture to perform image captioning
